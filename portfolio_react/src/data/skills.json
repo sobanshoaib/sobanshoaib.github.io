@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/clanguage.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "RISC-V",
+        "imageSrc": "skills/riscv.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html1.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css1.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript2.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "MATLAB",
+        "imageSrc": "skills/matlab.png"
+    },
+    {
+        "title": "React.js",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "skills/django.png"
+    }
+]
