@@ -20,7 +20,7 @@ export const About = () => {
                     <img src={getImageUrl("about/serverIcon.png")} alt="Server icon"/>
                     <div className={styles.aboutItemText}>
                         {/* <h3>Bakcend Developer</h3> */}
-                        <p>Related courswork includes Databases and Algorithms, Assembly programming, Software Engineering, Web Architecture, Operating Seystems, and more</p>
+                        <p>Related courswork includes Databases and Algorithms, Assembly programming, Software Engineering, Web Architecture, Operating Systems, and more</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
