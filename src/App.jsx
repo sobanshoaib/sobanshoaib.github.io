@@ -8,7 +8,7 @@ import { Projects } from "./components/Projects/Projects";
 import { Contact } from "./components/Contact/Contact";
 
 function App() {
-
+  // comment
   // styles.App is a variable, so use curly brackets
   return (
     <div className={styles.App}>
