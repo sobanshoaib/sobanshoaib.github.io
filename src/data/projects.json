@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Dietary Scanner",
+    "imageSrc": "projects/scanner.png",
+    "description": "Web application that allows users to enter a bar code of food item and get facts such as whether it is halal or not, vegan, vegetarian, and any allergens",
+    "skills": ["Python", "OpenCV", "PySimpleGUI", "Git"],
+    "source": "https://github.com/sobanshoaib/HackED2024-ByteOf87"
+  },
+
+  {
+    "title": "Target Showdown",
+    "imageSrc": "projects/clicking.png",
+    "description": "Engaging game where players must click on dynamically resizing targets, with built in trackers to measure players' precision, speed, and lives",
+    "skills": ["Python", "Pygame", "Git"],
+    "source": "https://github.com/sobanshoaib/target-showdown"
+  },
+
+  {
+    "title": "ServeCampus",
+    "imageSrc": "projects/project3.png",
+    "description": "Website that allows professors/staff members to advertise research/volunteer positions",
+    "skills": ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "Git"],
+    "source": "https://github.com/sobanshoaib/ServeCampus"
+  }
+]
+
+
+
+
+
+
