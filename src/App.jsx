@@ -11,6 +11,7 @@ function App() {
   // comment
   // styles.App is a variable, so use curly brackets
   return (
+    // need curly brackets to say evaluate wtv inside it, and this will be the value
     <div className={styles.App}>
       <Navbar />
       <Hero />

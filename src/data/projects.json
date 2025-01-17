@@ -1,5 +1,19 @@
 [
   {
+    "title": "Zenith Events",
+    "imageSrc": "projects/appphoto.png",
+    "description": "Android app that allows users to join events through a lottery system, with features for event organizers to manage, and admins to oversee the process",
+    "skills": ["Java", "Firebase", "Git"],
+    "source": "https://github.com/sobanshoaib/zenith-events-app"
+  },
+  {
+    "title": "QuickSell",
+    "imageSrc": "projects/market.png",
+    "description": "Marketplace that involves authentication, item listing and management, search, filters, and more",
+    "skills": ["Python", "Django", "HTML", "Tailwind CSS", "Git"],
+    "source": "https://github.com/sobanshoaib/django-marketplace"
+  },
+  {
     "title": "Dietary Scanner",
     "imageSrc": "projects/scanner.png",
     "description": "Web application that allows users to enter a bar code of food item and get facts such as whether it is halal or not, vegan, vegetarian, and any allergens",

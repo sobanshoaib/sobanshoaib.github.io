@@ -1,17 +1,24 @@
 [
   {
+    "role": "Student Developer",
+      "organization": "TennisLinked",
+      "startDate": "January 2025",
+      "endDate": "Present",
+      "experiences": ["Will develop a tennis hub app using React Native, MongoDB, and Node.js, featuring a marketplace for equipment, player matchmaking, coach bookings, tournament organization, and more", "This is in collaboration with a local startup for a university class to deliver a comprehensive platform for tennis enthusiasts"]
+  },
+  {
     "role": "Undergraduate Student Researcher",
       "organization": "Renewable Thermal Lab",
-      "startDate": "May, 2024",
-      "endDate": "August, 2024",
+      "startDate": "May 2024",
+      "endDate": "August 2024",
       "experiences": ["Implemented and fine-tuned genetic algorithm for multi-variable optimization, enhancing model efficiency and robustness", "Developed expertise in Pareto front analysis to identify optimal trade-offs between conflicting objectives, specializing in achieving efficiency as high as 98% and low standard deviation"],
     "imageSrc": "history/lab.png"
   },
   {
     "role": "Assistant Administrator",
     "organization": "ICNA Edmonton",
-    "startDate": "July, 2023",
-    "endDate": "August, 2023",
+    "startDate": "July 2023",
+    "endDate": "August 2023",
     "experiences": ["Assisted in planning the second annual Muslim Heritage Festival", "Made phone calls, delivered posters around the city, and made banners"],
     "imageSrc": "history/icna.png"
   }
